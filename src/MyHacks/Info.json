@@ -1,0 +1,6 @@
+{
+  "Id": "MyHacks",
+  "DisplayName": "杂七杂八的修改",
+  "Version": "1.0.0",
+  "EntryMethod": "MyHacks.Main.Load"
+}
