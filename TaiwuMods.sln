@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DDAE467B-B25
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rebirth", "src\Rebirth\Rebirth.csproj", "{39481703-0F2C-4753-81E1-3797B34E874A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reroll", "src\Reroll\Reroll.csproj", "{0BA6AA91-9A9B-47A7-ACF4-81158078185E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,8 +34,21 @@ Global
 		{39481703-0F2C-4753-81E1-3797B34E874A}.Release|x64.Build.0 = Release|Any CPU
 		{39481703-0F2C-4753-81E1-3797B34E874A}.Release|x86.ActiveCfg = Release|Any CPU
 		{39481703-0F2C-4753-81E1-3797B34E874A}.Release|x86.Build.0 = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|x64.Build.0 = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Debug|x86.Build.0 = Debug|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|x64.ActiveCfg = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|x64.Build.0 = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|x86.ActiveCfg = Release|Any CPU
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{39481703-0F2C-4753-81E1-3797B34E874A} = {DDAE467B-B25A-42CF-9343-C25BD2F86B88}
+		{0BA6AA91-9A9B-47A7-ACF4-81158078185E} = {DDAE467B-B25A-42CF-9343-C25BD2F86B88}
 	EndGlobalSection
 EndGlobal

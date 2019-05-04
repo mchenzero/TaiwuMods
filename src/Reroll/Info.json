@@ -1,0 +1,6 @@
+{
+  "Id": "Reroll",
+  "DisplayName": "重掷 - 免S/L筛选人物属性",
+  "Version": "1.0.0",
+  "EntryMethod": "Reroll.Main.Load"
+}
