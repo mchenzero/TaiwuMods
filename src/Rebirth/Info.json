@@ -1,0 +1,6 @@
+{
+  "Id": "Rebirth",
+  "DisplayName": "重生",
+  "Version": "1.0.0",
+  "EntryMethod": "Rebirth.Main.Load"
+}
